@@ -1,6 +1,7 @@
 "use strict"; // treat all js code as newer version
 
 //alert()  we are using nodejs , not browser
+//can check for javascript documentation ==> ECMAScript tc39, mdn, 
 
 let name = "shubham" //String
 let age  = 24       //Integer

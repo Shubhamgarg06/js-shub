@@ -4,7 +4,7 @@ var accountPassword = "12345"
 accountCity = "jaipur"
 let accountState;
 
-//accountId = 2  // const varriable cant be change
+//accountId = 2  // const varriable can't be change
 /*
 Prefer not to use var
 because of issue in block scope and functional scope
